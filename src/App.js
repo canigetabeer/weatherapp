@@ -1,5 +1,5 @@
 import Tempapp from './components/Tempapp';
-import react from "react";
+import React from "react";
 import './App.css';
 
 function App() {
